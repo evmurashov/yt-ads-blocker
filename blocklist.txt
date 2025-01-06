@@ -1,7 +1,7 @@
 # Domains for AdGuard Home
-
 yt3.ggpht.com
+yt3.googleusercontent.com
 userpaneltv-pa.googleapis.com
 /arpa/
-yt3.googleusercontent.com
 /akamaiedge.net/
+/panelresearch.googlevideo.com/
