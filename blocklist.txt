@@ -1,4 +1,4 @@
-# Domains for AdGuard Home
+# Rules for AdGuard Home
 yt3.ggpht.com
 yt3.googleusercontent.com
 userpaneltv-pa.googleapis.com
