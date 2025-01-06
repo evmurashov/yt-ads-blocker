@@ -1,2 +1,3 @@
 # Domains for AdGuard Home
 ad-g.doubleclick.net
+r0---sn-1gi7znel.googlevideo.com
