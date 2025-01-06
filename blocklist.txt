@@ -1,1 +1,2 @@
 # Domains for AdGuard Home
+ad-g.doubleclick.net
